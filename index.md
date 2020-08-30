@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# The Good, The Bad, The Ugly.
 
-You can use the [editor on GitHub](https://github.com/econclave/The-Good-The-Bad-The-Ugly./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## The Good
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hindustan Unilever Limited (HUL), the Indian subsidiary of Unilever, is indeed a very familiar name in every Indian household. They manufactured products which were quiet urbane but it failed to meet the changing preferences of the consumers, who wanted more natural and organic products. In response to these changes, they introduced a variety of products under their new brand, Lever Ayush, which went with the tag saying _‘All that is green is not ayurvedic’_, Targeting Patanjali, their rival in that market segment. Recently, The Ministry of AYUSH (ayurveda, yoga, unani, siddha and homeopathy) filed a case with the Controller General of Patents, Designs and trademark (CGPTD) to not register the acronym as a trade mark as requested by HUL. People from the ministry feel that the name could cause confusion among the general public. They also claim the name originally belonged to Central Council for Research in Ayurvedic Sciences (CCRAS). This move could severely threaten the goodwill of HUL. This would also mean the only close competitor to Patanjali in the ayurveda segment is no longer a serious threat.
 
-### Markdown
+## The Bad
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ITC Limited, one of the oldest FMCG’s operating in the Indian market is getting close to celebrate its 110th birthday in less than a couple of years. In the Indian consumer market, the general phenomenon is that household women contribute to sales by buying domestic grocery, vegetables and household utilities. But ITC Limited, has a unique market segment to boast of, the Indian men population. Guess what, **cigarette**. Cigarette and bidis are the major source of revenue for ITC. They sell 81% of the cigarettes in the Indian tobacco market. If men puffing smoke, burning his lungs and troubling his near ones is social responsibility in any sense, then beyond any doubt, ITC is the leader in corporate social responsibility. Looks like, Gold Flakes is the best route to the Golden Peacock. But, after the application of GST, the cess levied on cigarettes has increased. Recently, the tax rate applicable to cigarette too has gone up from 38% to 78%. This increases the tax burden for ITC. This would lead to declined profits. Revenue from cigarette has witnessed a 41% drop, from Rs. 8287 cr to Rs. 4629 cr. This seems to spell bad news to this FMCG giant.
 
-```markdown
-Syntax highlighted code block
+![The perfect usage of Clint Eastwood's film](https://images.unsplash.com/photo-1525328437458-0c4d4db7cab4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-# Header 1
-## Header 2
-### Header 3
+## The Ugly
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/econclave/The-Good-The-Bad-The-Ugly./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Patanjali is market dynamism personified. A classic example supporting the fact that anything is possible with the right government support. It enjoys a special favoritism from the ruling central government party, a fact which is not new to us. But the government’s palpable flaw in the _Van Dhan Scheme_ was too bright even for the blind man’s eye. The ministry planned to sell the medicinal and herbal products from the forests tribes of Maharashtra in whole sale to Patanjai, which would later sell these to the general public. Thereby helping both the forest tribes and the public, in the view of the government. But in turn, this would give great profits and increased market share to Patanjali. Also, when there is a tie up with the government in such deals, red-tapism and compliance procedures are limited. Such interesting MoU’s aren’t signed with other companies. The idea of this scheme is to provide employment to the forest tribes and also give affordable medical benefit to the common public without much side effect. But should the natural tribes be commercialized for the benefit of a single company, is the real question.
